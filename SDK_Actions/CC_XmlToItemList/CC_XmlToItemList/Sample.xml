@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<invoice>
+	<rows>
+		<row>
+			<BooleanNode>true</BooleanNode>
+			<ChooseNode>A</ChooseNode>
+			<DateTimeNode>2021-02-1T20:16:34</DateTimeNode>
+			<DecimalNode>10.09</DecimalNode>
+			<TextNode>Sample Text</TextNode>
+			<PickerNode>deber04@cosmoconsult.com</PickerNode>
+		</row>
+		<row>
+			<BooleanNode>false</BooleanNode>
+			<ChooseNode>B</ChooseNode>
+			<DateTimeNode>2021-02-09T20:16:34</DateTimeNode>
+			<DecimalNode>12.09</DecimalNode>
+			<TextNode>Second row</TextNode>
+			<PickerNode>deber05@cosmoconsult.com</PickerNode>
+		</row>
+	</rows>
+</invoice>
