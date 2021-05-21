@@ -1,0 +1,4 @@
+<style>
+div[data-key^="Error WFD_"]> .form-errors-panel__errors-container__error__message  {text-indent:-500px;top:-1em;position:relative;}
+.form-errors-panel__errors-container__error__message  {white-space:pre-line;}
+</style>

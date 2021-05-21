@@ -9,9 +9,6 @@ window.dkrueger.focusOnError.setFocusOnMissingRequiredField = function() {
         var currentItem = errors[i];
         var keyValue = currentItem.attributes["data-key"].value;
         var likelyErrorFieldName ;
-        if (keyValue.endsWith(":")){
-            likelyErrorFieldName =  keyValue.substring(0,keyValue.length-1);
-        }
         if (keyValue.indexOf(", row")> -1){
             likelyErrorFieldName =  keyValue.substring(0,keyValue.indexOf(", row"));
         }
