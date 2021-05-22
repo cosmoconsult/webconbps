@@ -1,0 +1,1 @@
+Currently it is not possible to automatically show a field to a user which caused an error. This is a bit problemtatic if it's on an other tab or a collapsed group. An explanation on how to achieve it anyway can be found [here](https://daniels-notes.de/posts/2021/focus-error-field).
