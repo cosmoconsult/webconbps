@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PortalUrl>https://wbc-cosmols-dev01.cosmocloud.eu</PortalUrl>
+  <ClientId>b0a26aa7-5263-4b45-8753-2d82f9acdc46</ClientId>
+  <ClientSecret>rcIo2lfDDbI1ilphuNwjqd0eJuVDiNVnfNdBDQ5WbEY=</ClientSecret>
+  <ImpersonationLogin>dkrueger9319@cosmoconsult.com</ImpersonationLogin>
+  <DbId>0</DbId>
+  <AppId>0</AppId>
+  <ReportId>0</ReportId>
+  <ViewId xsi:nil="true" />
+  <Page xsi:nil="true" />
+  <Size xsi:nil="true" />
+</Configuration>
